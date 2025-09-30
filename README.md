@@ -11,7 +11,7 @@ Perusahaan ini menyimpan data dalam beberapa tabel:
 Hubungan antar tabel:
 - Satu customer bisa memiliki banyak orders.
 - Satu order bisa berisi banyak order_items.
-- Satu product bisa muncul di banyak order_items.
+- Banyak Product bisa muncul di banyak order_items.
 
 📌 Soal (berdasarkan cerita di atas)
 
