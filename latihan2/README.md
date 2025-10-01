@@ -3,7 +3,7 @@
 Perusahaan startup bernama BelanjaKuy berkembang pesat sebagai e-commerce yang menjual berbagai produk kebutuhan sehari-hari.
 Mereka ingin merapikan database PostgreSQL agar lebih aman, cepat, dan terstruktur.
 
-Sebagai Database Engineer, Anda diminta membuat rancangan database dengan ketentuan berikut:
+Sebagai Software Engineer, Anda diminta membuat rancangan database dengan ketentuan berikut:
 
 1. Data Pelanggan (customers)
 
